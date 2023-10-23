@@ -1,5 +1,5 @@
 <?php
 define("USER", "root");
-define("SERVER", "localhost");
-define("BD", "store");
-define("PASS", "");
+define("SERVER", "containers-us-west-166.railway.app");
+define("BD", "railway");
+define("PASS", "9Y47NfaAQFyALeUIbKYl");
